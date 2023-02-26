@@ -4,3 +4,6 @@ idowu
 adaa
 monz
 revolut
+olamide
+tunde
+legah

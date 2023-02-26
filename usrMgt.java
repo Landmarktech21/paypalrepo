@@ -3,3 +3,4 @@ landmark
 idowu
 adaa
 monz
+revolut

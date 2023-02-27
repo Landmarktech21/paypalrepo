@@ -7,3 +7,5 @@ revolut
 olamide
 tunde
 legah
+uche
+titi

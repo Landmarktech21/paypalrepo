@@ -1,0 +1,3 @@
+natural
+industrial
+semi-industrial

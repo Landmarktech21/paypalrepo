@@ -1,2 +1,3 @@
 natural
 industrial
+semi-industrial

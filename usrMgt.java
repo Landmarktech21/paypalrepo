@@ -3,9 +3,7 @@ landmark
 idowu
 adaa
 monz
-revolut
 olamide
 tunde
 legah
 uche
-titi
